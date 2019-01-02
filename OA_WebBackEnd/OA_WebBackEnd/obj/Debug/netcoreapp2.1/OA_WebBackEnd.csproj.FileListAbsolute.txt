@@ -1,0 +1,14 @@
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\bin\Debug\netcoreapp2.1\OA_WebBackEnd.deps.json
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\bin\Debug\netcoreapp2.1\OA_WebBackEnd.runtimeconfig.json
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\bin\Debug\netcoreapp2.1\OA_WebBackEnd.runtimeconfig.dev.json
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\bin\Debug\netcoreapp2.1\OA_WebBackEnd.dll
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\bin\Debug\netcoreapp2.1\OA_WebBackEnd.pdb
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.csprojResolveAssemblyReference.cache
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.csproj.CoreCompileInputs.cache
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.RazorAssemblyInfo.cache
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.RazorAssemblyInfo.cs
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.AssemblyInfoInputs.cache
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.AssemblyInfo.cs
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.RazorTargetAssemblyInfo.cache
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.dll
+D:\DEV\Games\Operation Accolade\OA_WebBackEnd\OA_WebBackEnd\obj\Debug\netcoreapp2.1\OA_WebBackEnd.pdb
